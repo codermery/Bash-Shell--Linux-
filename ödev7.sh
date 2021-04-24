@@ -1,5 +1,5 @@
 !#/bin/bash
-#Meryem Koç -201307091
+
 clear
 
 dizinOlustur () {
